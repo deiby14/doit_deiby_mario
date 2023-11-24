@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap');
+/* Regla 1 */
+body {
+    margin: 0;
+}
+/* Regla 2 */
+#header {
+    height: 100vh;
+    background-image: url(../img/disco\ cara\ y\ cruz.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+/* Regla 3 */
+#header h1 {
+    color: white;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+    text-shadow: black 20px;
+}
+/* Regla 4 */
+#main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+/* Regla 5 */
+#main p {
+    font-size: 20px;
+}
+/* Regla 6 */
+#main h1 {
+    font-size: 40px;
+}
+/* Regla 7 */
+iframe {
+    height: 330px;
+    width: 100%;
+}
+/* Regla 8 */
+#spoiler {
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+/* Regla 9  */
+img {
+    width: 100%;
+}
+/* Regla 10  */
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
